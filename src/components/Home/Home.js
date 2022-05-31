@@ -28,7 +28,7 @@ const Home = () => {
                 </div>
             
             </section>
-            <button onClick={handleNavigate}>See All Reviews</button>
+            <button style={{marginTop: '10px'}} onClick={handleNavigate}>See All Reviews</button>
         </div>
     );
 };
