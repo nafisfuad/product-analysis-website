@@ -11,7 +11,7 @@ const Home = () => {
     }
     return (
         <div>
-            <section>
+            <section style={{display: 'flex'}}>
             <div>
                 <h1>NEXT PRODUCT</h1>
                 <h1>BEST PRODUCT</h1>
