@@ -1,0 +1,6 @@
+nav a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+    cursor: pointer;
+}
