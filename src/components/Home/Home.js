@@ -11,13 +11,13 @@ const Home = () => {
     }
     return (
         <div>
-            <section style={{display: 'flex'}}>
+            <section style={{display: 'flex', justifyContent: 'space-around'}}>
             <div>
-                <h1>NEXT PRODUCT</h1>
-                <h1>BEST PRODUCT</h1>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati deleniti cumque maxime, nihil dolore facere harum alias accusantium repudiandae, cupiditate laudantium dolorum ducimus amet. Libero ea repellendus odio quis laboriosam.</p>
+                <h1>NEXT IT Partner</h1>
+                <h1>BEST Service</h1>
+                <p>Best IT service you need.</p>
             </div>
-            <img src="../../images/Products-And-Services.jpg" alt="" />
+            <img width="50%" src="../../images/Products-And-Services.jpg" alt="" />
             </section>
             <section>
                 <div className='reviews'>
